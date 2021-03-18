@@ -8,3 +8,6 @@
 
 Для проверки качества модели используется метрика RMSE.
 
+##### Инструменты: pandas, sklearn, catboost, statsmodels, matplotlib
+
+
